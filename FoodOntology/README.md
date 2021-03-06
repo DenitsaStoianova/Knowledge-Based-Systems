@@ -3,9 +3,10 @@
 Копие на избраната поредица от параграфи от статия в Wikipedia, тема на статията - Pancakes:
 
 ***How pancakes are made***
+
 Pancakes contain a baking powder, eggs, flour sugar, and milk, which makes a thick batter. 
 
-***Variety of pancakes***
+**Variety of pancakes**
 
 ***French crêpes***
 
